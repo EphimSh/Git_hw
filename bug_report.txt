@@ -1,0 +1,5 @@
+title: testname
+prerequisites: testcondition
+steps: 1,2,3
+expected: testresult-1
+fact: testresult-2
