@@ -1,0 +1,4 @@
+fio: "Shaposhnikov Efim Alexandrovich",
+age: "33",
+pets_amount: "1",
+nearest_future_salary: "$8000"
