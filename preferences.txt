@@ -1,0 +1,6 @@
+favourite_movie: "The Matrix",
+favourite_tv_show: "Twin Peaks",
+favourite_meal: "Borsch with draniki and sour cream",
+favourite_season: "Winter",
+country_to_visit: "USA"
+

@@ -1,0 +1,9 @@
+0. Git
+1. JavaScript fundamentals
+2. TypeScript fundamentals
+3. Playwright autotests
+4. Docker
+5. CI/CD
+6. cucumber
+7. mocha
+8. WebdriverIO
